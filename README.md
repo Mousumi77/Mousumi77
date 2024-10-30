@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/d89cab025947fab5617372f9105ad572dc8c58fe0556a37db3fc1bb60cd97542/68747470733a2f2f74332e667463646e2e6e65742f6a70672f30312f39342f30312f30302f3336305f465f3139343031303039335f397443354a4e567369454f6c56447332463559366430706159726457546462542e6a7067)]
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
 <h1 align="center">Hi 👋, I'm Mousumi Majhi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
